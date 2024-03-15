@@ -33,3 +33,22 @@ These notebooks use TensorFlow 2.6.
     - [Part 5: Generative adversarial networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter12_part05_gans.ipynb)
 * [Chapter 13: Best practices for the real world](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter13_best-practices-for-the-real-world.ipynb)
 * [Chapter 14: Conclusions](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter14_conclusions.ipynb)
+
+## 激活虚拟环境
+
+```
+source ./venv/bin/activate
+```
+
+## 安装包
+
+```
+pip install -r requirements.txt
+pip install -r requirements.txt --index-url https://mirrors.aliyun.com/pypi/simple/
+```
+
+## 打开笔记本
+
+```
+jupyter notebook
+```
