@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+data/*
+logs/*
+*.ttc
+Icon*
+.vscode
+*.icloud
+.idea/
+.ipynb_checkpoints/
+_data/
+
